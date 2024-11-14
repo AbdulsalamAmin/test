@@ -5,34 +5,10 @@
 using namespace std;
 
 // Base class Shape
-class Shape {
-public:
-    virtual void create() = 0;
-    virtual void print() const = 0;
-    virtual ~Shape() {}
-};
+
 
 // Circle Class that inherits from Shape
-class Circle : public Shape {
-private:
-    double radius;
-
-public:
-    void create() override {
-        cout << "Enter radius of the circle: ";
-        while(!(cin>>radius)){
-            cin.clear();
-            cin.ignore(std::numeric_limits<streamsize>::max(),'\n');
-            cout<<"Input invalid, please try again.";
-
-        }
-
-    }
-
-    void print() const override {
-        cout << "Circle with radius: " << radius << endl;
-    }
-};
+CCCC
 
 // Square Class that inherits from Shape
 class Square : public Shape {

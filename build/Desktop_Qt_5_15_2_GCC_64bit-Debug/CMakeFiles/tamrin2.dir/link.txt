@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-13 -DQT_QML_DEBUG -g CMakeFiles/tamrin2.dir/main.cpp.o CMakeFiles/tamrin2.dir/shape.cpp.o CMakeFiles/tamrin2.dir/square.cpp.o CMakeFiles/tamrin2.dir/rectangle.cpp.o CMakeFiles/tamrin2.dir/circle.cpp.o -o tamrin2 
