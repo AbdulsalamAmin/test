@@ -1,7 +1,0 @@
-/home/amin/c++/tamrin2/build/Desktop-Debug/CMakeFiles/tamrin2.dir
-/home/amin/c++/tamrin2/build/Desktop-Debug/CMakeFiles/edit_cache.dir
-/home/amin/c++/tamrin2/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
-/home/amin/c++/tamrin2/build/Desktop-Debug/CMakeFiles/list_install_components.dir
-/home/amin/c++/tamrin2/build/Desktop-Debug/CMakeFiles/install.dir
-/home/amin/c++/tamrin2/build/Desktop-Debug/CMakeFiles/install/local.dir
-/home/amin/c++/tamrin2/build/Desktop-Debug/CMakeFiles/install/strip.dir
