@@ -1,0 +1,8 @@
+/home/salam/Udemy - Qt 6 Core Beginners with C++ 2021-3/c++/QThread_test/build/Qt_5_15_2-Debug/CMakeFiles/QThread_test.dir
+/home/salam/Udemy - Qt 6 Core Beginners with C++ 2021-3/c++/QThread_test/build/Qt_5_15_2-Debug/CMakeFiles/edit_cache.dir
+/home/salam/Udemy - Qt 6 Core Beginners with C++ 2021-3/c++/QThread_test/build/Qt_5_15_2-Debug/CMakeFiles/rebuild_cache.dir
+/home/salam/Udemy - Qt 6 Core Beginners with C++ 2021-3/c++/QThread_test/build/Qt_5_15_2-Debug/CMakeFiles/list_install_components.dir
+/home/salam/Udemy - Qt 6 Core Beginners with C++ 2021-3/c++/QThread_test/build/Qt_5_15_2-Debug/CMakeFiles/install.dir
+/home/salam/Udemy - Qt 6 Core Beginners with C++ 2021-3/c++/QThread_test/build/Qt_5_15_2-Debug/CMakeFiles/install/local.dir
+/home/salam/Udemy - Qt 6 Core Beginners with C++ 2021-3/c++/QThread_test/build/Qt_5_15_2-Debug/CMakeFiles/install/strip.dir
+/home/salam/Udemy - Qt 6 Core Beginners with C++ 2021-3/c++/QThread_test/build/Qt_5_15_2-Debug/CMakeFiles/QThread_test_autogen.dir
